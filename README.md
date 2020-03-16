@@ -15,6 +15,7 @@
 ## 原理
 非常简单，只需要对下面这个链接发送**GET请求**：
 > http://zhinengjiaju.vip/xczx/saidwords.action?roomid=房间号&uid=TaUSER-ID&words=消息&nickname=用户名
+
 其中有几个数据，我们来分析一下。
 1. 房间号
   - 魏先生软件的用户开通的房间名
