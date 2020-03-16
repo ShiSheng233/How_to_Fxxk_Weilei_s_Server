@@ -14,7 +14,7 @@
 
 ## 原理
 非常简单，只需要对下面这个链接发送**GET请求**：
-> http://zhinengjiaju.vip/xczx/saidwords.action?roomid=房间号&Tauid=USER-ID&words=消息&nickname=用户名
+> http://zhinengjiaju.vip/xczx/saidwords.action?roomid=房间号&uid=TaUSER-ID&words=消息&nickname=用户名
 其中有几个数据，我们来分析一下。
 1. 房间号
   - 魏先生软件的用户开通的房间名
@@ -27,9 +27,9 @@
   - 字面意思，自己设置就好，发送不了消息请更换一个，魏雷很喜欢设置关键词
 5. 用户名后
   - 必须要有字符'♂'或'♀'，否则直接"封号"
-> 例子 GET http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&Tauid=1145141541&words=测试&nickname=测试♂
+> 例子 GET http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&uid=Ta1145141541&words=测试&nickname=测试♂
 
-你也可以直接访问这个[链接](http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&Tauid=1145141541&words=测试&nickname=测试♂)，也可以看到效果
+你也可以直接访问这个[链接](http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&uid=Ta1145141541&words=测试&nickname=测试♂)，也可以看到效果
 
 ## 开始吧！
 只需要浏览器，你就能做到
