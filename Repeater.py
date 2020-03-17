@@ -17,7 +17,7 @@ while True:
     print()
     print(uid)
     print(name)
-    request_url = "http://zhinengjiaju.vip/xczx/saidwords.action?roomid=%s&uid=Ta%s&words=%s&nickname=%s<img src='2131099769'>"%(roomname,uid,words,name)
+    request_url = "http://zhinengjiaju.vip/xczx/saidwords.action?roomid=%s&uid=%s&words=%s&nickname=%s<img src='2131099769'>"%(roomname,uid,words,name)
     print("url=%s\nroom=%s\nuid=%s\nname=%s\nvip=true\nwords=%s\n"%(request_url,roomname,uid,name,words))
     requests.get(request_url)
     print("Done.\n")
