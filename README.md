@@ -16,6 +16,7 @@
 ## 原理
 由于更新了接口，现在稍微有些复杂，需要对下面这个链接发送**GET请求**：
 > http://zhinengjiaju.vip/xczx/saidwords.action?roomid=房间号&uid=Ta用户ID&words=内容&nickname=用户名&timestamp=时间戳&salt=MD5
+
 其中有几个数据，我们来分析一下。
 1. 房间号
   - 魏先生软件的用户开通的房间名
