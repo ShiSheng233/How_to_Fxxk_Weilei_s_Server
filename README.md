@@ -1,6 +1,5 @@
 # How to Fxxk Weilei's Server
 [![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org)
-[![Go](https://img.shields.io/badge/Language-Go-green.svg)](https://golang.org)
 [![E](https://img.shields.io/badge/Language-E-green.svg)](http://www.dywt.com.cn)
 [![LICENSE](https://img.shields.io/badge/License-WTFPL-green.svg)](LICENSE)
 
