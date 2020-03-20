@@ -42,7 +42,6 @@
 
 > 例子 GET http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&uid=TaMP450305303&words=你马没了！Сука блядь！С ука блядь！&nickname=优秀♂&timestamp=1584598451362&salt=4cd11a186023cb4623fd3c0a3d93406a
 
-或者，你也可以直接访问这个[链接](http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&uid=TaMP450305303&words=你马没了！Сука блядь！С ука блядь！&nickname=优秀♂&timestamp=1584598451362&salt=4cd11a186023cb4623fd3c0a3d93406a)，也可以看到效果
 
 ## 开始吧！
 由于这次更新了md5，使用浏览器发包不再现实，请使用脚本进行发包测试
