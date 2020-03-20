@@ -1,4 +1,8 @@
 # How to Fxxk Weilei's Server
+[![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org/)
+[![LICENSE](https://img.shields.io/badge/License-WTFPL-blue.svg)](LICENSE)
+
+[How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
 
 **"腕上聊天室"APP已在华为手表应用市场下架，小米与问问暂无回复。**
 
