@@ -48,6 +48,7 @@
         - 本次的重要更新部分，据反向分析来看是从OSS上下载一个固定的txt，下面给出key
         > fnakdjsgangaj65984qdvcvo71as1a3ds1g56a1g5a1ggagra&gajg15615avasggsa66a15g651a71ger1g5ar1g56ytiu7
 
+
 > 例子 GET http://zhinengjiaju.vip/xczx/saidwords.action?roomid=树洞&uid=TaMP450305303&words=你马没了！Сука блядь！С ука блядь！&nickname=优秀♂&timestamp=1584598451362&salt=4cd11a186023cb4623fd3c0a3d93406a
 
 
@@ -63,7 +64,7 @@
 经过我们几天的发包、攻击测试，发现服务器会限制多次发包的用户，建议两次发包间间隔5~13秒
 
 ## 提示
-- 此软件不复存在，本项目中的代码并不会持续有效
+- 此软件在应用市场内不复存在，故本项目中的代码并不会持续有效
 - 关于为什么会去举报、'攻击'，请了解整个事件
 - 为什么要这么做？因为我在生活中遇到垃圾也会随手扔进垃圾桶
 - 感谢与我一起干翻服务器的朋友们，谢谢你们
