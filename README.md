@@ -80,6 +80,3 @@
 - 关于为什么会去举报、'攻击'，请了解整个事件
 - 为什么要这么做？因为我在生活中遇到垃圾也会随手扔进垃圾桶
 - 感谢与我一起干翻服务器的朋友们，谢谢你们
-
-## English Version
-[How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
