@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org)
 [![E](https://img.shields.io/badge/Language-E-green.svg)](http://www.dywt.com.cn)
 [![LICENSE](https://img.shields.io/badge/License-WTFPL-green.svg)](LICENSE)
+
 [How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
 
 > 据说魏雷要道歉，我在此声明，保留不撤回举报的权利
@@ -88,5 +89,5 @@
 ## 后记
 - 事情快结束了
 - 我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
-- 我甚至认为这种人不配被称作开发者
+- *我甚至认为这种人不配被称作开发者*
 - 几天之内项目会转入Archive状态
