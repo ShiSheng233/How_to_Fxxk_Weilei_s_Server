@@ -2,8 +2,10 @@
 [![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org)
 [![E](https://img.shields.io/badge/Language-E-green.svg)](http://www.dywt.com.cn)
 [![LICENSE](https://img.shields.io/badge/License-WTFPL-green.svg)](LICENSE)
-
 [How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
+
+> 据说魏雷要道歉，我在此声明，保留不撤回举报的权利
+> 目前已报送华为手表应用市场、小米手表应用市场、问问应用市场、工信部
 
 **"腕上聊天室"APP已在华为手表应用市场下架，小米与问问暂无回复。**
 
@@ -81,3 +83,8 @@
 - 关于为什么会去举报、'攻击'，请了解整个事件
 - 为什么要这么做？因为我在生活中遇到垃圾也会随手扔进垃圾桶
 - 感谢与我一起干翻服务器的朋友们，谢谢你们
+
+## 后记
+- 事情快结束了
+- 我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
+- 几天之内项目会转入Archive状态
