@@ -104,7 +104,7 @@
 1. VIP在新版APP中变成订阅制
 2. 当用户名内含有非UTF-8字符时无法发送
 3. 服务端后台可能更新了内容审核，[造成返回ok，实则不显示的问题](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/issues/2)
-4. VIP
+4. VIP专属的头像更换功能我们暂未研究
 
 ## 注意事项
 
