@@ -6,7 +6,9 @@
 
 [How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
 
-> 据说魏雷要道歉，我在此声明，保留不撤回举报的权利
+[点击下载**暂时可用的**程序包](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/releases/tag/v1.0)
+
+> 据说魏雷要道歉，我在此声明，永久保留不撤回举报的权利
 >
 > 目前已报送华为手表应用市场、小米手表应用市场、问问应用市场、工信部
 >
@@ -119,6 +121,6 @@
 
 ## 后记
 
-- 事情快结束了
-- 我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
-- 几天之内项目会转入Archive状态
+- 本项目的内容可能随着魏雷对程序的更新而失效
+- 事情快结束了，我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
+- 项目会转入Archive状态
