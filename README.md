@@ -6,21 +6,13 @@
 
 [How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
 
-[点击下载**暂时可用的**程序包](https://github.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/releases/tag/v1.0)
-
-> 据说魏雷要道歉，我在此声明，永久保留不撤回举报的权利
+> 据说魏雷要道歉，我在此声明，保留不撤回举报的权利
 >
-> 目前已报送华为手表应用市场、小米手表应用市场、出门问问应用市场、工信部
+> 已经报送华为手表应用市场、小米手表应用市场、问问应用市场、工信部
 >
 > 举报的主要内容有：在未备案的情况下开通即时聊天服务、泄露用户隐私、色情、政治敏感等话题
 
-**"腕上聊天室"APP已在华为手表应用市场、小米手表应用市场下架、出门问问应用市场下架。**
-
-华为应用市场下架时间:2020-3-20
-
-小米应用市场下架时间:2020-3-23
-
-出门问问应用市场下架时间:2020-3 (具体时间未知)
+**"腕上聊天室"APP已在华为手表应用市场下架，小米与问问暂无回复。**
 
 本仓库存放了我们用来测试的源码等，可以自己玩玩.
 
@@ -127,6 +119,40 @@
 
 ## 后记
 
-- 本项目的内容可能随着魏雷对程序的更新而失效
-- 事情快结束了，我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
-- 项目会转入Archive状态
+- 事情快结束了
+- 我希望经历过这件事的朋友就当是看了场笑话，并请各位开发者引以为戒，这样的人品不可取
+- 几天之内项目会转入Archive状态
+
+## 证据&笑话
+
+- 求软件被破解
+
+![萎雷求被破解](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E6%B1%82%E8%A2%AB%E7%A0%B4%E8%A7%A3.png "求被破解")
+
+- 伟大的魏雷软件帝国构想
+
+![梦想](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E9%87%8E%E5%BF%83.png "梦想")
+
+**有一说一，有能力使用海外版固件的用户，会用你这xx玩意？**
+
+- 用户GHS，开发者不进行管理
+
+![GHS1](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/GHS1.jpg "GHS-1")
+
+![GHS2](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/GHS2.jpg "GHS-2")
+
+- 公布被禁言用户IP地址
+
+![IP](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/IP.jpg "公布IP地址")
+
+- 对我进行人肉搜索、造谣
+
+![信息](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png "信息")
+
+![公开信息](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E5%85%AC%E5%BC%80%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg "在自己的交流群公开我的个人信息")
+
+![造谣1](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E9%80%A0%E8%B0%A31.jpg "造谣-1")
+
+![造谣2](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E9%80%A0%E8%B0%A32.jpg "造谣-2")
+
+**我的反驳，你造谣我举报别人的网站，却*给不出网站名*，那么，请问，你凭什么这么说？**
