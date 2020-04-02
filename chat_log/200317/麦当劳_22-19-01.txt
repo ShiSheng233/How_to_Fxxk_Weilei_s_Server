@@ -1,0 +1,1 @@
+{"time": "1575471045477", "room": {"firstman": "Ta1484179465", "talks": [{"uid": "Ta1484179465", "words": "提前收购麦当劳", "time": 1574744774594}, {"uid": "Ta118269581", "words": "有人吗", "nickname": "无名氏♂", "time": 1575471045477}], "roomid": "麦当劳"}, "status": "has news"}

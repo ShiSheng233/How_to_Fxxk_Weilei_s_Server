@@ -1,0 +1,1 @@
+{"time": "1573532829530", "room": {"firstman": "Ta1185712842", "talks": [{"uid": "Ta1185712842", "words": "13150759605", "time": 1573532829530}], "roomid": "138"}, "status": "has news"}

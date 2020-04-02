@@ -1,0 +1,1 @@
+{"time": "1578964714306", "room": {"firstman": "Ta199725778", "talks": [{"uid": "Ta199725778", "words": "王一博", "nickname": "akza♂", "time": 1576023512859}, {"uid": "Ta1714000839", "words": "虚伪", "nickname": "好汉♂", "time": 1578964714306}], "roomid": "hentai"}, "status": "has news"}
