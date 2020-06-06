@@ -1,7 +1,6 @@
 # How to Fxxk Weilei's Server
 
 [![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://python.org)
-[![E](https://img.shields.io/badge/Language-E-green.svg)](http://www.dywt.com.cn)
 [![LICENSE](https://img.shields.io/badge/License-WTFPL-green.svg)](LICENSE)
 
 [How to Fxxk Weilei's Server (English)](https://github.com/AkinoMaple/weartalk/blob/master/README.md)
