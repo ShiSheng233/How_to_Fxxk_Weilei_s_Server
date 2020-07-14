@@ -145,14 +145,3 @@
 
 ![IP](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/IP.jpg "公布IP地址")
 
-- 对我进行人肉搜索、造谣
-
-![信息](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png "信息")
-
-![公开信息](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E5%85%AC%E5%BC%80%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg "在自己的交流群公开我的个人信息")
-
-![造谣1](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E9%80%A0%E8%B0%A31.jpg "造谣-1")
-
-![造谣2](https://raw.githubusercontent.com/ShiSheng233/How_to_Fxxk_Weilei_s_Server/master/%E8%AF%81%E6%8D%AE/%E9%80%A0%E8%B0%A32.jpg "造谣-2")
-
-**我的反驳，你造谣我举报别人的网站，却*给不出网站名*，那么，请问，你凭什么这么说？**
